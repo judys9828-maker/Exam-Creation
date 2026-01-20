@@ -1,0 +1,5 @@
+{
+  "name": "Exam Creator ",
+  "description": "A streamlined tool for teachers to generate high-quality classroom exams and answer keys using AI. Simply input a topic, grade level, and language to receive a structured exam in seconds.",
+  "requestFramePermissions": []
+}
